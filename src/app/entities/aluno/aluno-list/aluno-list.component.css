@@ -1,0 +1,5 @@
+button.mat-raised-button {
+    font-size: 12px; /* tamanho do botão */
+    padding: 4px 8px; /* padding do botão */
+    margin-left: 10px; /* margem à esquerda do botão */
+  }
